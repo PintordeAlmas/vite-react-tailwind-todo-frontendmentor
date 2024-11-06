@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../todo-app-main/design"
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true
+	}
+}
